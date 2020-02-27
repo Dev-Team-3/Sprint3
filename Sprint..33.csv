@@ -1,0 +1,77 @@
+Sweet,,,,,,
+Type,QTY in kg/ box,Selling Price per units,Cost price per units,Total Cost,Total Sale,Profit
+Air heards,15,R60.00,R40.00,R600.00,R900.00,R300.00
+Almond,15,R45.00,R25.00,R375.00,R675.00,R300.00
+Baby Ruth,15,R35.00,R26.00,R390.00,R525.00,R135.00
+Butterfinger,15,R45.00,R25.00,R375.00,R675.00,R300.00
+Cadbury Eggs,15,R52.00,R42.00,R630.00,R780.00,R150.00
+Cadbury Buttons,15,R68.00,R33.00,R495.00,"R1,020.00",R525.00
+Dots,15,R25.00,R14.00,R210.00,R375.00,R165.00
+Dove chocolate,15,R68.00,R33.00,R495.00,"R1,020.00",R525.00
+Everlasting Gobstopper,15,R74.00,R53.00,R795.00,"R1,110.00",R315.00
+Eyes Popper,15,R33.00,R23.00,R345.00,R495.00,R150.00
+Ferrero Rocher,15,R25.00,R10.00,R150.00,R375.00,R225.00
+Fun Dip,15,R23.00,R13.00,R195.00,R345.00,R150.00
+Good and Plenty,15,R20.00,R14.00,R210.00,R300.00,R90.00
+Scones,,,,,,
+Products,Quantity,Unit Price,Total Price,Total Cost,Total Sale,Profit
+BlueberryÿScones,50, R25.00 ," R1,250.00 ",R250.00," R1,250.00 ","R1,000.00"
+Chocolate ChipÿScones,50, R25.00 ," R1,250.00 ",R250.00," R1,250.00 ","R1,000.00"
+Cranberry Orange,50, R33.00 ," R1,650.00 ",R250.00," R1,650.00 ",R650.00
+BananaÿScones.,50, R28.00 ," R1,400.00 ",R250.00," R1,400.00 ",R400.00
+Raspberry Almond ButtermilkÿScones,50, R44.00 ," R2,200.00 ",R200.00," R2,200.00 ",R200.00
+Lemon BlueberryÿScones,50, R34.00 ," R1,700.00 ",R700.00," R1,700.00 ",R700.00
+SprinkleÿScones.,50, R45.00 ," R2,250.00 ",R250.00," R2,250.00 ",R250.00
+Caramel Apple,50, R25.00 ," R1,250.00 ",R250.00," R1,250.00 ",R250.00
+ÿCinnamon ChipÿScones.,50, R52.00 ," R2,600.00 ",R600.00," R2,600.00 ",R600.00
+Triple ChocolateÿSconesÿ they taste like brownies,50, R50.00 ," R2,500.00 ",R250.00," R2,500.00 ",R500.00
+Coooldrinks,,,,,,
+Type,QTY (case) of grm,Selling Price per units,Cost price per units,Total Cost,Total Sale,Profit
+Coke -Cola,50, R12.00 , R5.00 , R250.00 , R600.00 , R350.00 
+Pepsi,55, R10.00 , R6.00 , R330.00 , R550.00 , R220.00 
+Red Bull,13, R20.00 , R8.00 , R104.00 , R260.00 , R156.00 
+Nestle S.A,13, R20.00 , R5.00 , R65.00 , R260.00 , R195.00 
+Sprite,50, R12.00 , R5.00 , R250.00 , R600.00 , R350.00 
+Mountain Dew,45, R13.00 , R5.00 , R225.00 , R585.00 , R360.00 
+Perpper Soda,45, R20.00 , R8.00 , R360.00 , R900.00 , R540.00 
+Fanta,45, R12.00 , R5.00 , R225.00 , R540.00 , R315.00 
+Tropicana,45, R14.00 , R6.00 , R270.00 , R630.00 , R360.00 
+Fruit & Vegies,,,,,,
+Type,QTY in kg/ box,Selling Price per units,Cost price per units,Total Cost,Total Sale,Profit
+Pears,50,R45.00,R44.75,"R2,237.50","R2,250.00",R12.50
+Grapefruits,50,R50.00,R49.75,"R2,487.50","R2,500.00",R12.50
+Banana,50,R65.00,R64.75,"R3,237.50","R3,250.00",R12.50
+Apple,50,R45.00,R44.75,"R2,237.50","R2,250.00",R12.50
+Orange,50,R50.00,R49.75,"R2,487.50","R2,500.00",R12.50
+Appricot,50,R55.00,R54.75,"R2,737.50","R2,750.00",R12.50
+Tomato,50,R65.00,R64.75,"R3,237.50","R3,250.00",R12.50
+Avocando,50,R75.00,R74.75,"R3,737.50","R3,750.00",R12.50
+Carbadge,50,R80.00,R79.75,"R3,987.50","R4,000.00",R12.50
+Potatoes,100,R35.00,R34.75,"R3,475.00","R3,500.00",R25.00
+Carrots,100,R30.00,R29.75,"R2,975.00","R3,000.00",R25.00
+Dessert,,,,,,
+Type,QTY in kg/ box/Dish,Selling Price per units,Cost price per units,Total Cost,Total Sale,Profit
+Angel food cake,100,R50.00,R25.00,"R2,500.00","R5,000.00","R2,500.00"
+Anzac biscuit tarts,100,R45.00,R20.00,"R2,000.00","R4,500.00","R2,500.00"
+Apple and Butterscotch pie,100,R30.00,R23.00,"R2,300.00","R3,000.00",R700.00
+10-minute honey,100,R40.00,R15.00,"R1,500.00","R4,000.00","R2,500.00"
+Cheesecake,100,R55.00,R30.00,"R3,000.00","R5,500.00","R2,500.00"
+Tramisu,100,R75.00,R50.00,"R5,000.00","R7,500.00","R2,500.00"
+Chocolate mousse in minutes,100,R35.00,R10.00,"R1,000.00","R3,500.00","R2,500.00"
+Roasted Strawberry crumble,100,R55.00,R30.00,"R3,000.00","R5,500.00","R2,500.00"
+Almond and date cake,100,R60.00,R35.00,"R3,500.00","R6,000.00","R2,500.00"
+Maltesers Tiramisu,100,R28.00,R19.00,"R1,900.00","R2,800.00",R900.00
+Chips,,,,,,
+Type,QTY,Selling Price per units,Cost price per units,Total Cost,Total Sale,Profit
+Lays,25,R15.00,R10.00,R250.00,R375.00,R200.00
+doritos,20,R11.00,R6.00,R120.00,R220.00,R125.00
+Funnyun,20,R12.00,R6.00,R120.00,R240.00,R100.00
+Balistos,20,R17.00,R12.00,R240.00,R340.00,R120.00
+Bambas,20,R25.00,R15.00,R300.00,R500.00,R250.00
+Bambeanos,20,R30.00,R20.00,R400.00,R600.00,R250.00
+Barcel,20,R15.00,R9.00,R180.00,R300.00,R250.00
+Beer Nuts,20,R25.00,R12.00,R240.00,R500.00,R300.00
+Clif Bar,20,R14.00,R7.00,R140.00,R280.00,R400.00
+Cottage Double,20,R15.00,R14.00,R280.00,R300.00,R250.00
+Cracker Jack,20,R18.00,R15.00,R300.00,R360.00,R250.00
+Crimpy,20,R14.00,R8.00,R160.00,R280.00,R150.00
